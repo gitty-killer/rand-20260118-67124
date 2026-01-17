@@ -1,0 +1,13 @@
+{
+  "project_title": "SLA Compliance Monitor",
+  "goal": "Measure SLA performance and flag high-risk queues.",
+  "entity_name": "service_case",
+  "amount_label": "breach_minutes",
+  "score_label": "sla_score",
+  "categories": [
+    "priority1",
+    "priority2",
+    "priority3",
+    "priority4"
+  ]
+}
